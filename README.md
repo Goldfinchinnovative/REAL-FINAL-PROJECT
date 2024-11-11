@@ -18,6 +18,8 @@ The analysis covers reasons why femail in Nigeria are single :
 
     ## TOOLS
 
- -  MICROSOFT EXCEL
+ -  MCIROSOFT EXCEL
+   # USED FORMULA
+```=C1*D2```
        
   
