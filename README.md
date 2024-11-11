@@ -1,6 +1,6 @@
 # REAL FINAL PROJECT
 ## PROJECT OVERVIEW
-#### __OBJECTIVES__
+#### _OBJECTIVES_
 This project is my final project in toffee computing school, Apo Resettlent Abuja
 # Scope
 The analysis covers reasons why femail in Nigeria are single :
